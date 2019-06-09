@@ -85,7 +85,7 @@ movie17.quote='Let it go.'
 movie16=link()
 movie16.days=16
 movie16.link='https://www.youtube.com/watch?v=6Dh-RL__uN4'
-movie16.quote='Because we were talkig about yt, oh wait. (i was, you have nothing to say)''
+movie16.quote='Because we were talkig about yt, oh wait. (i was, you have nothing to say)'
 
 movie15=link()
 movie15.days=15
@@ -95,7 +95,7 @@ movie15.quote='Because we were talkig about yt, oh wait. (i was, you have nothin
 movie14=link()
 movie14.days=14
 movie14.link='https://www.youtube.com/watch?v=YZuFsI-bttM'
-movie14.quote='Spider-Man, Spider-Man Does whatever a spider can(tony dies in endgame)''
+movie14.quote='Spider-Man, Spider-Man Does whatever a spider can(tony dies in endgame)'
 
 movie13=link()
 movie13.days=13
@@ -154,7 +154,7 @@ movie03.quote='to our dead frends, even, if they are not dead yet. '
 
 movie02=link()
 movie02.days=2
-movi302.link='https://www.youtube.com/watch?v=9E6b3swbnWg'
+movie02.link='https://www.youtube.com/watch?v=9E6b3swbnWg'
 movie02.quote='its fine. '
 
 movie01=link()
