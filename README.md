@@ -14,8 +14,7 @@
 	°''pip install (name of module)'' should do the trick   		    ....|.........................|
 								                                                  ......|.........U.........|
 								                                                  ..........||............||
-							                                                    
-Close the DatePicker before opening link!		  	    
+	  	    
 			
 
 (\_/)				With love and kisses	
