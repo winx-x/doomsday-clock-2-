@@ -41,6 +41,14 @@ def play():
     td = days_between_dates()
     linker=pick(td.days)
     webbrowser.open(linker.link, new=new)
+    
+def press():
+    # for link '-1' ==> opens youtube
+    DoomsdayClock.stopSound()
+    new=2
+    td = days_between_dates()
+    linker='https://www.youtube.com/watch?v=wEWF2xh5E8s'
+    webbrowser.open(linker, new=new)
 
 def start():
         # program's heart (ok, core)
@@ -101,6 +109,7 @@ def countdown():
             DoomsdayClock.addButton('Play dedicated video', play)
     else:
         DoomsdayClock.addLabel('lbl6', 'It\'s all over now')
+        DoomsdayClock.addButton('Play dedicated video', press)
         DoomsdayClock.setLabelFg('lbl6', 'orange')
     DoomsdayClock.addButton('Exit', exit)
 
