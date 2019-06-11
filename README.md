@@ -16,6 +16,7 @@
 								                                                  ..........||............||
 	  	    
 			
+			!!	Quick note: Picking date is for picking DOOMDAY, not current date	!!
 
 (\_/)				With love and kisses	
 ( •,•)				Natalia, Agata and Agnieszka ^^
